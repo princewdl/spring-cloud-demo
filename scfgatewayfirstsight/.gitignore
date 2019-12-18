@@ -21,4 +21,8 @@ hs_err_pid*
 /loginUtils/
 /auth/
 /login/
+<<<<<<< HEAD
 /*/out
+=======
+/*/out
+>>>>>>> 726c16dc5b7915ec0191e0dd20158982e1854e26
